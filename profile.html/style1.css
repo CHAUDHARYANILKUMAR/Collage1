@@ -1,0 +1,18 @@
+main{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    padding: 0%;
+}
+.icon{
+    text-align: left;
+}
+.logo{
+    color: brown;
+}
+.main{
+    text-align: justify;
+    padding: 0%;
+    height: auto;
+}
